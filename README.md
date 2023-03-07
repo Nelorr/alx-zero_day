@@ -1,1 +1,1 @@
-This is a directory on git
+How to be up to date in git
